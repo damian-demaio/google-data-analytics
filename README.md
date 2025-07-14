@@ -16,6 +16,9 @@ Google spreadsheets
 <ins> Project insights</ins>
 
 Ride length time for Customers is, on average, higher than Subscribers time.
+
 Number of trips per day for Subscribers is, on average, higher than Customers time. 
+
 The most preferred days for Customers are the weekend days, whereas the least preferred days for Subscribers is during the weekend, too.
+
 There’s a strong relationship between ride length time average and number of trips for Subscribers. When the number of trips is higher, ride length time decreases.
