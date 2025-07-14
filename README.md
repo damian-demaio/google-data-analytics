@@ -10,8 +10,8 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 Google spreadsheets
 
-[Google sheets] (https://docs.google.com/spreadsheets/d/14lFF41bZe86nk1JlfUTdyo5jULfHZus95hOuWsEZpCI/edit?gid=490453494#gid=490453494) (https://docs.google.com/spreadsheets/d/1IdzNwD60u8pVWMY3s2iW9EfzGVP1uE_FAemp-1qwijo/edit?gid=640449855#gid=640449855)
- 
+[Google Sheet 1](https://docs.google.com/spreadsheets/d/14IFF41bZe86nk1JflUTdyo5jULfHZus95hOuWsEZpCI/edit?gid=490453494#gid=490453494)  
+[Google Sheet 2](https://docs.google.com/spreadsheets/d/1ldzNwD60u8pVWMY3s2iW9EfzGVP1uE_FAemp-1qwijo/edit?gid=640449855#gid=640449855)
 
 <ins> Project insights</ins>
 
